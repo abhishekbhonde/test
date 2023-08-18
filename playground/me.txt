@@ -1,5 +1,1 @@
-{{#user}
-Name: Abhishek Bhonde
-Skills: HTML, CSS, JS, React.js, AWS.
-Email: abhishekbhonde567@gmail.com
-{{/user}}
+
